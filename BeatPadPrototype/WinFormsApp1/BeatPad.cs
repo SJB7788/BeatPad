@@ -194,10 +194,7 @@ namespace WinFormsApp1
         {
             Metronome metronome = new Metronome();
             metronome.Show();
-        }
-    }
-            }
-        }
+        }                
 
         private void upload4_Click(object sender, EventArgs e)
         {
